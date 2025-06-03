@@ -19,6 +19,6 @@
 ## 🔧 Setup
 
 ```bash
-git clone https://github.com/yourname/Luxios_sniper
+git clone https://github.com/AevAdi/Luxios_sniper
 cd Luxios_sniper
-npm install
+./sniper
