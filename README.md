@@ -3,7 +3,7 @@
 **Lux10s_sn1p3r** is a blaz1ng-fast, h1gh-p3rf0rmanc3 D1sc0rd N1tr0 sn1p3r d3v-t00l d3s1gn3d t0 0v3rshad0w th3 c0mp3t1t10n.  
 Bui1t f0r sp33d, r3s1l13nc3, and st34lth — th1s ut1l1ty d3l1v3rs f1rst bl00d 0n 3v3ry c0d3 dr0p.
 
-🆔 V3rs10n: `1.0.3-dev`  
+🆔 V3rs10n: `1.0.0`  
 🧬 C0d3nam3: `LXS-103x`
 
 ---
